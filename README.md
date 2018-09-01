@@ -16,7 +16,7 @@ distancia es importante que la consideres constante en el programa.
 
       |  Velocidad |      Nivel     |
       -------------------------------
-        15..17 	 "Avanzado"
+        15..17 	    "Avanzado"
         12...14.99  "Medio"
         10...11.99  "Normal"
         9..9.99     "Principiante"
